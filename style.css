@@ -1,0 +1,16 @@
+span {
+	padding: 10px;
+}
+
+body {
+	background-color: darkred;
+}
+
+img {
+	border-radius: 50%;
+}
+
+.body2 {
+	background-color: darkred;
+	font-family: Times New Roman;
+}
